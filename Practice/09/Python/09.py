@@ -1,0 +1,19 @@
+from math import fabs
+print("Введите первое время:\n")
+a, b = input().split(':')
+print("Введите второе время:\n")
+c, d = input().split(':')
+a = int(a)
+b = int(b)
+c = int(c)
+d = int(d)
+if a <= 23 and a >= 0 and b <= 59 and b > 0 and c <= 23 and c >= 0 and d <= 59 and d > 0:
+    f = fabs(a - c)
+    g = fabs(b - d)
+    if f == 0 and g <= 15 or f == 1 and g >= 45 or f == 23 and g >= 45:
+        print("Встреча состоится")
+    else:
+        print("Встреча не состоится")
+
+else:
+    print("Ошибка ввода")
