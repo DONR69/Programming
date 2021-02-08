@@ -1,0 +1,4 @@
+﻿  22.cpp
+C:\Users\Danya\Documents\Programming\Practice\22\C++\22\22.cpp(38,20): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\22\C++\22\22.cpp(39,17): warning C4018: >=: несоответствие типов со знаком и без знака
+  22.vcxproj -> C:\Users\Danya\Documents\Programming\Practice\22\C++\22\Debug\22.exe
