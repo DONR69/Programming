@@ -29,7 +29,7 @@
 | Практическая 20 - [[С++]](./Practice/20/C++/20/20.cpp) [[Python]](./Practice/20/Python/20.py) | |
 | Практическая 21 - [[С++]](./Practice/21/C++/21/21.cpp) [[Python]](./Practice/21/Python/21.py) | |
 | Практическая 22 - [[С++]](./Practice/22/C++/22/22.cpp) [[Python]](./Practice/22/Python/22.py) | |
-| Практическая 23 - [[С++]](./Practice/23/C++/23/23.cpp) [[Python]](./Practice/23/Python/23.py) | |
+| Практическая 23 - [[С++]](./Practice/23/C++/23/23.cpp) | |
 | Практическая 24 - [[С++]](./Practice/24/C++/24/24.cpp) [[Python]](./Practice/24/Python/24.py) | |
 | Практическая 25 - [[С++]](./Practice/25/C++/25/25.cpp) [[Python]](./Practice/25/Python/25.py) | |
 | Практическая 26 - [[С++]](./Practice/26/C++/26/26.cpp) [[Python]](./Practice/26/Python/26.py) | |
