@@ -1,0 +1,10 @@
+﻿  26.cpp
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\bozosort.hpp(60,29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\26.cpp(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<float,std::allocator<float>> BozoSort::BozoSort<float>(const std::vector<float,std::allocator<float>> &,bool)"
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\26.cpp(83,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\26.cpp(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print_vector<float>(std::vector<float,std::allocator<float>>,const char *,const char *,const char *)"
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\bozosort.hpp(35,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\bozosort.hpp(69): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool BozoSort::IsSorted<float>(const std::vector<float,std::allocator<float>> &,bool)"
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\26.cpp(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<float,std::allocator<float>> BozoSort::BozoSort<float>(const std::vector<float,std::allocator<float>> &,bool)"
+C:\Users\Danya\Documents\Programming\Practice\26\C++\26\bozosort.hpp(46,31): warning C4018: <: несоответствие типов со знаком и без знака
+  26.vcxproj -> C:\Users\Danya\Documents\Programming\Practice\26\C++\26\Debug\26.exe

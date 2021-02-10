@@ -1,0 +1,9 @@
+﻿  32.cpp
+C:\Users\Danya\Documents\Programming\Practice\32\C++\32\32.cpp(34,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\32\C++\32\32.cpp(47,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\32\C++\32\32.cpp(60,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\32\C++\32\32.cpp(105,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\32\C++\32\32.cpp(143,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\32\C++\32\32.cpp(165,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\Documents\Programming\Practice\32\C++\32\32.cpp(170,20): warning C4018: <: несоответствие типов со знаком и без знака
+  32.vcxproj -> C:\Users\Danya\Documents\Programming\Practice\32\C++\32\Debug\32.exe
