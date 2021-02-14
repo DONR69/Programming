@@ -199,7 +199,7 @@ def get_random_free_cell(root):
 
 Рисунок 1 - Начало игры
 
-![](screenshots/deletedfirstlinewithblueballs.png)
+![](screenshots/firstline.png)
 
 Рисунок 2 - Игрок удалил первую линию из синих шаров по вертикали, получив за это 10 игровых очков
 
