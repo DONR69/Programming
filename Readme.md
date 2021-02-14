@@ -7,9 +7,9 @@
 
 | Практические | Лабораторные |
 |--------------|--------------|
-| Практическая 01 - [[С++]](./Practice/01/C++/01/ConsoleApplication1.cpp) [[Python]](./Practice/01/Python/01.py) |  [Лабораторная 01](./Labs/01/README.md) |
-| Практическая 02 - [[С++]](./Practice/02/C++/02/02.cpp) [[Python]](./Practice/02/Python/02.py) |  [Лабораторная 02](./Labs/02/README.md) |
-| Практическая 03 - [[С++]](./Practice/03/C++/03/03.cpp) [[Python]](./Practice/03/Python/03.py) |  [Лабораторная 03](./Labs/03/README.md) |
+| Практическая 01 - [[С++]](./Practice/01/C++/01/ConsoleApplication1.cpp) [[Python]](./Practice/01/Python/01.py) |  [Лабораторная 01](./Lab/01/README.md) |
+| Практическая 02 - [[С++]](./Practice/02/C++/02/02.cpp) [[Python]](./Practice/02/Python/02.py) |  [Лабораторная 02](./Lab/02/README.md) |
+| Практическая 03 - [[С++]](./Practice/03/C++/03/03.cpp) [[Python]](./Practice/03/Python/03.py) |  [Лабораторная 03](./Lab/03/README.md) |
 | Практическая 04 - [[С++]](./Practice/04/C++/04/04.cpp) [[Python]](./Practice/04/Python/04.py) | |
 | Практическая 05 - [[С++]](./Practice/05/C++/05/05.cpp) [[Python]](./Practice/05/Python/05.py) | |
 | Практическая 06 - [[С++]](./Practice/06/C++/06/06.cpp) [[Python]](./Practice/06/Python/06.py) | |
