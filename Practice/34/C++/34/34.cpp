@@ -84,8 +84,9 @@ void destroy(int** arr)
 
 int main(int argc, char* argv[])
 {
+    setlocale(LC_ALL, "Russian");
     int len, start, inc;
-    puts("Enter length, begin value and increment.");
+    puts("Введите длину массива, начальное значение и приращение");
     scanf_s("%d%d%d", &len, &start, &inc);
     int* arr;
     create(&arr, len, start, inc);

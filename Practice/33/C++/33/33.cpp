@@ -50,7 +50,7 @@ int main(int argc, const char* argv[])
 
 	int size, step = 0, start = 0;
 
-	std::cout << "Введите размер, начало и шаг арифметической прогрессии" << std::endl;
+	std::cout << "Введите размер массива, первое число и шаг" << std::endl;
 	std::cin >> size >> start >> step;
 
 	int* ptr_ptrarr = create(size, start, step);

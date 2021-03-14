@@ -1,2 +1,2 @@
-C:\Users\Danya\Documents\Programming\Practice\34\C++\34\Debug\34.exe
-C:\Users\Danya\Documents\Programming\Practice\34\C++\34\Debug\34.pdb
+C:\Users\Danya\Desktop\34\Debug\34.exe
+C:\Users\Danya\Desktop\34\Debug\34.pdb
